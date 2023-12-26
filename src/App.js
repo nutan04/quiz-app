@@ -16,6 +16,7 @@ class App extends Component {
 			selectedOption: "",
 			score: 0,
 			quizEnd: false,
+			
 		};
 	}
 
